@@ -11,8 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
+    "bcrypt": "*",
+    "dotenv": "^10.0.0",
     "express": "^4.18.2",
     "formik": "^2.4.1",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^7.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
