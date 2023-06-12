@@ -5,7 +5,6 @@ const connectDB = async () => {
     await mongoose.connect('mongodb://localhost/discord-clone', {
       useNewUrlParser: true,
       useUnifiedTopology: true,
-      // Additional options will to be added here
     });
     console.log('Connected to the database');
   } catch (error) {
