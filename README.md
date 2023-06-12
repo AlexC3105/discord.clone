@@ -1,16 +1,27 @@
 # Discord Clone
 
-[![License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-[![GitHub issues](https://img.shields.io/github/issues/AlexC3105/discord-clone.svg)](https://github.com/AlexC3105/discord-clone/issues)
-[![GitHub stars](https://img.shields.io/github/stars/AlexC3105/discord-clone.svg)](https://github.com/AlexC3105/discord-clone/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AlexC3105/discord-clone.svg)](https://github.com/AlexC3105/discord-clone/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/AlexC3105/discord-clone.svg)](https://github.com/AlexC3105/discord-clone/graphs/contributors)
+![License](https://img.shields.io/badge/License-ISC-blue.svg)
+![GitHub issues](https://img.shields.io/github/issues/AlexC3105/discord-clone.svg)
+![GitHub stars](https://img.shields.io/github/stars/AlexC3105/discord-clone.svg)
+![GitHub forks](https://img.shields.io/github/forks/AlexC3105/discord-clone.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/AlexC3105/discord-clone.svg)
 
 ## Description
 
 Discord Clone is a web application that aims to replicate the functionality of the popular messenger platform, Discord. It allows users to communicate with each other through text chat, voice chat, and various other features.
 
-This project serves as a learning exercise and demonstration of building a full-stack web application using technologies such as React, Node.js, Express, MongoDB, and Socket.IO.
+This project serves as a learning exercise and demonstration of building a full-stack web application using the following technologies:
+
+![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
+![Node.js](https://img.shields.io/badge/Node.js-LTS-green.svg)
+![Express](https://img.shields.io/badge/Express-4.18.2-lightgrey.svg)
+![MongoDB](https://img.shields.io/badge/MongoDB-7.2.4-success.svg)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-4.6.2-orange.svg)
+![Axios](https://img.shields.io/badge/Axios-1.4.0-blueviolet.svg)
+![Formik](https://img.shields.io/badge/Formik-2.4.1-lightgrey.svg)
+![Redux](https://img.shields.io/badge/Redux-4.2.1-yellow.svg)
+![React Router](https://img.shields.io/badge/React_Router-6.12.1-blue.svg)
+![Yup](https://img.shields.io/badge/Yup-1.2.0-green.svg)
 
 ## Features
 
@@ -43,17 +54,6 @@ bash
 Copy code
 npm run dev
 Open your browser and navigate to http://localhost:3000 to access the application.
-Technologies Used
-React
-Node.js
-Express
-MongoDB
-Socket.IO
-Axios
-Formik
-Redux
-React Router
-Yup
 Contributors
 Alex Climenco - sniper3105@gmail.com
 License
