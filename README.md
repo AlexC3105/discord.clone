@@ -39,22 +39,19 @@ This project serves as a learning exercise and demonstration of building a full-
 
 ```bash
 git clone https://github.com/AlexC3105/discord-clone.git
-Install dependencies for the server:
-bash
-Copy code
+
 cd discord-clone/server
 npm install
-Install dependencies for the client:
-bash
-Copy code
+
 cd ../src
 npm install
-Start the development server:
-bash
-Copy code
+
 npm run dev
+
 Open your browser and navigate to http://localhost:3000 to access the application.
+
 Contributors
 Alex Climenco - sniper3105@gmail.com
+
 License
 This project is licensed under the ISC License. See the LICENSE file for details.
