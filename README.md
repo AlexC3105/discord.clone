@@ -1,10 +1,10 @@
 # Discord Clone
 
-![License](https://img.shields.io/badge/License-ISC-blue.svg)
-![GitHub issues](https://img.shields.io/github/issues/AlexC3105/discord-clone.svg)
-![GitHub stars](https://img.shields.io/github/stars/AlexC3105/discord-clone.svg)
-![GitHub forks](https://img.shields.io/github/forks/AlexC3105/discord-clone.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/AlexC3105/discord-clone.svg)
+[![License](https://img.shields.io/badge/license-ISC-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/AlexC3105/discord-clone)](https://github.com/AlexC3105/discord-clone/issues)
+[![GitHub stars](https://img.shields.io/github/stars/AlexC3105/discord-clone)](https://github.com/AlexC3105/discord-clone/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AlexC3105/discord-clone)](https://github.com/AlexC3105/discord-clone/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/AlexC3105/discord-clone)](https://github.com/AlexC3105/discord-clone/graphs/contributors)
 
 ## Description
 
@@ -12,16 +12,16 @@ Discord Clone is a web application that aims to replicate the functionality of t
 
 This project serves as a learning exercise and demonstration of building a full-stack web application using the following technologies:
 
-![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
-![Node.js](https://img.shields.io/badge/Node.js-LTS-green.svg)
-![Express](https://img.shields.io/badge/Express-4.18.2-lightgrey.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB-7.2.4-success.svg)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-4.6.2-orange.svg)
-![Axios](https://img.shields.io/badge/Axios-1.4.0-blueviolet.svg)
-![Formik](https://img.shields.io/badge/Formik-2.4.1-lightgrey.svg)
-![Redux](https://img.shields.io/badge/Redux-4.2.1-yellow.svg)
-![React Router](https://img.shields.io/badge/React_Router-6.12.1-blue.svg)
-![Yup](https://img.shields.io/badge/Yup-1.2.0-green.svg)
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Socket.IO](https://socket.io/)
+- [Axios](https://axios-http.com/)
+- [Formik](https://formik.org/)
+- [Redux](https://redux.js.org/)
+- [React Router](https://reactrouter.com/)
+- [Yup](https://github.com/jquense/yup)
 
 ## Features
 
